@@ -7,10 +7,10 @@ can perform such actions.
 
 
 Prerequisites:
-*NodeJS (Latest LTS)
-*Newman
-*Postman
-*newman-html-extra
+NodeJS (Latest LTS)
+Newman
+Postman
+newman-html-extra
 
 
 ~How to run~

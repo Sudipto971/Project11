@@ -22,6 +22,11 @@
 ## Documentation
  https://documenter.getpostman.com/view/27409357/2sA3QwaUVn
 
+
+ ## Bug report
+ https://docs.google.com/spreadsheets/d/1i9xdVLeArt0bzjmeW6GOIqyxxkkMlitkeNt7Pt9IpGM/edit?usp=sharing
+ 
+
 ## Output
 
 ![Output Project 11 final](https://github.com/Sudipto971/Project11/assets/132764259/78dd0bdb-5057-4ced-98d3-4dc48e697370)
